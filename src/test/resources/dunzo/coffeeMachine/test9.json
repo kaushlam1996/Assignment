@@ -1,0 +1,103 @@
+{
+	"machine": {
+		"outlets": {
+			"count_n": 4
+		},
+		"total_items_quantity": {
+			"hot_water": 100,
+			"hot_milk": 100,
+			"ginger_syrup": 100,
+			"sugar_syrup": 500,
+			"tea_leaves_syrup": 500
+		},
+		"beverages": {
+			"hot_tea": {
+				"hot_water": 1,
+				"hot_milk": 1,
+				"ginger_syrup": 1,
+				"sugar_syrup": 1,
+				"tea_leaves_syrup": 1
+			},
+			"hot_coffee": {
+				"hot_water": 1,
+				"ginger_syrup": 1,
+				"hot_milk": 1,
+				"sugar_syrup": 1,
+				"tea_leaves_syrup": 1
+			},
+			"black_tea": {
+				"hot_water": 10,
+				"ginger_syrup": 1,
+				"sugar_syrup": 1,
+				"tea_leaves_syrup": 1
+			},
+			"green_tea": {
+				"hot_water": 1,
+				"ginger_syrup": 1,
+				"sugar_syrup": 1,
+				"hot_milk": 1
+			},
+			"green_tea2": {
+				"hot_water": 1,
+				"ginger_syrup": 1,
+				"sugar_syrup": 1,
+				"hot_milk": 1
+			},
+			"green_tea3": {
+				"hot_water": 1,
+				"ginger_syrup": 1,
+				"sugar_syrup": 1,
+				"hot_milk": 1
+			},
+			"green_tea4": {
+				"hot_water": 1,
+				"ginger_syrup": 1,
+				"sugar_syrup": 1,
+				"hot_milk": 1
+			},
+			"green_tea5": {
+				"hot_water": 1,
+				"ginger_syrup": 1,
+				"sugar_syrup": 1,
+				"hot_milk": 1
+			},
+			"green_tea6": {
+				"hot_water": 1,
+				"ginger_syrup": 1,
+				"sugar_syrup": 1,
+				"hot_milk": 1
+			},
+			"green_tea7": {
+				"hot_water": 1,
+				"ginger_syrup": 1,
+				"sugar_syrup": 1,
+				"hot_milk": 1
+			},
+			"green_tea8": {
+				"hot_water": 1,
+				"ginger_syrup": 1,
+				"sugar_syrup": 1,
+				"hot_milk": 1
+			},
+			"green_tea9": {
+				"hot_water": 1,
+				"ginger_syrup": 1,
+				"sugar_syrup": 1,
+				"hot_milk": 1
+			},
+			"green_tea1": {
+				"hot_water": 1,
+				"ginger_syrup": 1,
+				"sugar_syrup": 1,
+				"hot_milk": 1
+			},
+			"green_tea11": {
+				"hot_water": 1,
+				"ginger_syrup": 1,
+				"sugar_syrup": 1,
+				"hot_milk": 1
+			}
+			
+		}
+	}
+} 

@@ -1,0 +1,14 @@
+{
+	"machine": {
+		"outlets": {
+			"count_n": 4
+		},
+		
+		"green_tea": {
+				"hot_water": 100,
+				"ginger_syrup": 30,
+				"sugar_syrup": 50,
+				"green_mixture": 30
+			}
+		}
+} 
