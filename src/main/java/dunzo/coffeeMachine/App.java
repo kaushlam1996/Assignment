@@ -20,7 +20,6 @@ public class App {
 		try {
 			CoffeeMachine machine = parseCoffeeMachine();
 			log.debug("Machine has been parsed successfully"); 
-			//machine.printInventoryState();
 			machine.startProcessing().forEach(x -> System.out.println(x));
 
 		} catch (FileNotFoundException e) {
