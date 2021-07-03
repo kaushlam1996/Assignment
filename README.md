@@ -18,8 +18,8 @@ Ans: Download project -> Unzip -> import as Gradle project -> refresh gradle pro
 
 Qus: how to run test cases ?
 Ans: All the test cases are present in src/test/resources/dunzo/coffeeMachine/{file.name}. Change fileName (test1.json,test2.json...... test11.json) in App.java in        parseCoffeeMachine funtion. Now save the file ans run App.java
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Assumption : 
 1. Outlet will consume remaining item data even if drink cannot be prepared. (ex. lets say hot_coffee needed 5KG milk but only 2 KG is present in inventory. In that case drink cannot be prepared but milk inventory will be 0 after running the test case as its an obvious behaviour of coffee machine).
 2. machine have multiple CPUs
